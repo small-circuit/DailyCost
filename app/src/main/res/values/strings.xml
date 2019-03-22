@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">家計寶</string>
+    <string name="title_activity_daily_cost">DailyCost</string>
+    <string name="title_activity_month_list">MonthList</string>
+    <string name="cancel">cancel</string>
+    <string name="OK">OK</string>
+    <string name="dialog_fire_missiles">dialog fire missiles</string>
+    <string name="fire">fire</string>
+    <string name="categoryManagement">Category Management</string>
+    <string name="DD_MM_YYYY">%1$d-%2$d-%3$d</string>
+</resources>
